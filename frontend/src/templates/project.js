@@ -19,8 +19,8 @@ const Project = ({ data }) => {
   return (
     <Layout>
       <div>
-
           <h1>{project.title}</h1>
+          <p>yo</p>
         </div>
 
     </Layout>
